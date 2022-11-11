@@ -14,6 +14,8 @@ public class Main {
 
     public static void main( String[] args ) {
 
+        // bla
+
         Scanner scn = new Scanner( System.in );
 
         System.out.println( "Enter the multiplier for the items:" );
