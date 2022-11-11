@@ -14,7 +14,12 @@ public class Main {
 
     public static void main( String[] args ) {
 
+<<<<<<< HEAD
         // bla bla bla
+=======
+        // bla
+
+>>>>>>> add-gui-branch
         Scanner scn = new Scanner( System.in );
 
         System.out.println( "Enter the multiplier for the items:" );
